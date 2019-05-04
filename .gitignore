@@ -1,0 +1,84 @@
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+recentf
+.mc-lists.el
+.init.el.swp
+/request/
+.\#*
+
+# Org-mode
+.org-id-locations
+*_archive
+
+# flymake-mode
+*_flymake.*
+
+# eshell files
+eshell
+/eshell/history
+/eshell/lastdir
+
+# elpa packages
+# /elpa/
+/elpa/*.txt
+/elpa/archives/melpa
+
+# reftex files
+*.rel
+
+# AUCTeX auto folder
+/auto/
+
+# cask packages
+.cask/
+dist/
+
+# Flycheck
+flycheck_*.el
+
+# server auth directory
+/server/
+
+# projectiles files
+.projectile
+projectile-bookmarks.eld
+projectile.cache
+
+# directory configuration
+.dir-locals.el
+
+# sessions
+session.*
+
+# omnisharp
+/.cache/
+
+# anaconda
+/anaconda-mode/
+
+# var
+/var/
+
+# transient
+/transient/
+
+# irony
+/irony/bin/
+
+# games
+/games/
+
+# smex
+smex-items
+
+# places
+.places
+
+# evil
+/.tutor/
