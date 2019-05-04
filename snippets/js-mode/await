@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: await
+# key: aw
+# group: node
+# --
+await $0

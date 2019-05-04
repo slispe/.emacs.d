@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: res.send
+# key: res
+# group: node
+# --
+res.send($0);
